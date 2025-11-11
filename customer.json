@@ -1,0 +1,132 @@
+[
+  {
+    "customer_id": 1,
+    "name": "Alice Rossi",
+    "age": 25,
+    "address": {
+      "city": "Rome",
+      "zip": "00184"
+    },
+    "orders": [
+      {"order_id": "A101", "item": "Laptop", "price": 1200},
+      {"order_id": "A102", "item": "Mouse", "price": 25}
+    ],
+    "preferences": {"newsletter": true, "sms_alerts": false}
+  },
+  {
+    "customer_id": 2,
+    "name": "Bob Verdi",
+    "age": 17,
+    "address": {
+      "city": "Milan",
+      "zip": "20121"
+    },
+    "orders": [
+      {"order_id": "B201", "item": "Headphones", "price": 80}
+    ],
+    "preferences": {"newsletter": false, "sms_alerts": true}
+  },
+  {
+    "customer_id": 3,
+    "name": "Charlie Bianchi",
+    "age": 35,
+    "address": {
+      "city": "Naples",
+      "zip": "80100"
+    },
+    "orders": [],
+    "preferences": {"newsletter": true, "sms_alerts": true}
+  },
+  {
+    "customer_id": 4,
+    "name": "Diana Neri",
+    "age": null,
+    "address": {
+      "city": "Turin",
+      "zip": "10121"
+    },
+    "orders": [
+      {"order_id": "D301", "item": "Book", "price": 15},
+      {"order_id": "D302", "item": "Tablet", "price": 300}
+    ],
+    "preferences": {"newsletter": false, "sms_alerts": false}
+  },
+  {
+    "customer_id": 5,
+    "name": "Ethan Russo",
+    "age": 40,
+    "address": {
+      "city": "Rome",
+      "zip": "00184"
+    },
+    "orders": [
+      {"order_id": "E401", "item": "Smartphone", "price": 900}
+    ],
+    "preferences": {"newsletter": true, "sms_alerts": false}
+  },
+  {
+    "customer_id": 6,
+    "name": "Francesca Conti",
+    "age": 29,
+    "address": {
+      "city": "Florence",
+      "zip": "50122"
+    },
+    "orders": [
+      {"order_id": "F501", "item": "Shoes", "price": 120}
+    ],
+    "preferences": {"newsletter": true, "sms_alerts": true}
+  },
+  {
+    "customer_id": 7,
+    "name": "Giovanni De Luca",
+    "age": 50,
+    "address": {
+      "city": "Venice",
+      "zip": "30121"
+    },
+    "orders": [
+      {"order_id": "G601", "item": "Camera", "price": 700}
+    ],
+    "preferences": {"newsletter": false, "sms_alerts": true}
+  },
+  {
+    "customer_id": 8,
+    "name": "Hanna Greco",
+    "age": 33,
+    "address": {
+      "city": "Bologna",
+      "zip": "40121"
+    },
+    "orders": [
+      {"order_id": "H701", "item": "Watch", "price": 250}
+    ],
+    "preferences": {"newsletter": true, "sms_alerts": false}
+  },
+  {
+    "customer_id": 9,
+    "name": "Ivan Romano",
+    "age": 22,
+    "address": {
+      "city": "Palermo",
+      "zip": "90133"
+    },
+    "orders": [
+      {"order_id": "I801", "item": "Backpack", "price": 60}
+    ],
+    "preferences": {"newsletter": false, "sms_alerts": false}
+  },
+  {
+    "customer_id": 10,
+    "name": "Julia Ferri",
+    "age": 28,
+    "address": {
+      "city": "Genoa",
+      "zip": "16121"
+    },
+    "orders": [
+      {"order_id": "J901", "item": "Desk Lamp", "price": 45}
+    ],
+    "preferences": {"newsletter": true, "sms_alerts": true}
+  }
+]
