@@ -1,4 +1,3 @@
-[
   {
     "customer_id": 1,
     "name": "Alice Rossi",
@@ -129,4 +128,3 @@
     ],
     "preferences": {"newsletter": true, "sms_alerts": true}
   }
-]
